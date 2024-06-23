@@ -197,7 +197,7 @@ session_start();
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>About Us<br></h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Polomolok Public MarketPolomolok Public MarketPolomolok Public Market</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -206,8 +206,7 @@ session_start();
 
           <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Polomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public Market  
             </p>
             <ul>
               <li><i class="bi bi-check2-circle"></i> <span>We sells goods sheets</span></li>
@@ -217,7 +216,7 @@ session_start();
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <p>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+            <p>Polomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public Market</p>
             <a href="#" class="read-more bg-warning"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
           </div>
 
@@ -313,7 +312,7 @@ session_start();
                 <span>Super clean and well-maintained. One of the best public markets in the province. Super cheap veggies and fruits from nearby farms. Market day is Saturday when the place is packed with vendors selling fresh produce from all over.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="image/review/avelmanansala.png" class="testimonial-img" alt="">
+                <img src="image/review/avelmanansala.png" class="testimonial-img" alt="photo">
                 <h3>Avel Manansala</h3>
                 <h4>Influencer &amp; Blogger</h4>
               </div>
@@ -499,7 +498,7 @@ session_start();
           <div class="col-xl-10">
             <div class="text-center">
               <h3>Interested In Owning a stall?</h3>
-              <p>Occupy the stalls chuchu edit pa ni to the extent of our dearest heart of the dragon of azaroth</p>
+              <p>Occupy the stalls with your own liking!</p>
               <a class="cta-btn" href="#">Click Here</a>
             </div>
           </div>
@@ -516,7 +515,7 @@ session_start();
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Polomolok Public MarketPolomolok Public MarketPolomolok Public MarketPolomolok Public Market</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">

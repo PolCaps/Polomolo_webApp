@@ -22,7 +22,7 @@ if ($username && $password) {
                 header("Location: Admin.html");
                 exit();
             case 'Vendor':
-                header("Location: Vendor.php");
+                header("Location: Vendor.html");
                 exit();
             default:
                 // If user role is not recognized, redirect to a generic page or display an error message
